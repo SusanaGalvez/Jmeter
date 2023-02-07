@@ -1,0 +1,25 @@
+2023-01-18 15:16:51,954 INFO o.a.j.u.JMeterUtils: Setting Locale to es_ES
+2023-01-18 15:16:51,976 INFO o.a.j.u.JMeterUtils: Could not find resources for 'es_ES', using 'es'
+2023-01-18 15:16:51,976 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-01-18 15:16:51,976 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: Version 5.5
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: java.version=17.0.5
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: os.name=Windows 10
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: os.arch=amd64
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: os.version=10.0
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: file.encoding=Cp1252
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: java.awt.headless=null
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: Max memory     =4211081216
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: Available Processors =8
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: Default Locale=español (España)
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: JMeter  Locale=español (España)
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: JMeterHome=C:\Users\susana.galvez\Desktop\apache-jmeter-5.5
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: user.dir  =C:\Users\susana.galvez\Desktop\apache-jmeter-5.5\bin
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: PWD       =C:\Users\susana.galvez\Desktop\apache-jmeter-5.5\bin
+2023-01-18 15:16:51,991 INFO o.a.j.JMeter: IP: 172.18.40.121 Name: L2208007 FullName: host.docker.internal
+2023-01-18 15:16:52,007 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-01-18 15:16:52,343 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:javax.swing.plaf.metal.MetalLookAndFeel
+2023-01-18 15:16:54,151 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_10-10e839edd01b2a1a2ef1572f13401e5e-gui
+2023-01-18 15:16:56,360 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-functions=2.2, jpgc-casutg=2.10, jpgc-dummy=0.4, jpgc-ffw=2.0, jpgc-fifo=0.2, jpgc-perfmon=2.1, jpgc-plugins-manager=1.8, jpgc-tst=2.5, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5, jpgc-standard=2.0]
